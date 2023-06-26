@@ -59,7 +59,7 @@ let QYWX_AM = '';
 
 // =======================================iGot聚合推送通知设置区域===========================================
 //此处填您iGot的信息(推送key，例如：https://push.hellyw.com/XXXXXXXX)
-let IGOT_PUSH_KEY = '';
+let IGOT_PUSH_KEY = 'https://push.hellyw.com/64958231bc8828002faa11a6';
 
 // =======================================push+设置区域=======================================
 //官方文档：http://www.pushplus.plus/
