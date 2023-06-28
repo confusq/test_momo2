@@ -19,9 +19,10 @@ const MMSLS = [
 =====================请在下面编辑=====================
  */
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=7843145&pid=be8766371b4034e76c957eb1b6f0144a&tid=1dbb798a4745af60ab370109c604d300",
-    "https://www.maimemo.com/share/page?uid=7843145&pid=be8766371b4034e76c957eb1b6f0144a&tid=1dbb798a4745af60ab370109c604d300",
-    "https://www.maimemo.com/share/page?uid=7843145&pid=be8766371b4034e76c957eb1b6f0144a&tid=1dbb798a4745af60ab370109c604d300",
+    "https://www.maimemo.com/share/page?uid=7843145&pid=ca39f8f3edeb43cdbc9875d1e16d90fd&tid=850afad56638d00cc5c40f22ae230b4a",
+    "https://www.maimemo.com/share/page?uid=7843145&pid=ca39f8f3edeb43cdbc9875d1e16d90fd&tid=850afad56638d00cc5c40f22ae230b4a",
+    "https://www.maimemo.com/share/page?uid=7843145&pid=ca39f8f3edeb43cdbc9875d1e16d90fd&tid=850afad56638d00cc5c40f22ae230b4a",
+    "https://www.maimemo.com/share/page?uid=7843145&pid=ca39f8f3edeb43cdbc9875d1e16d90fd&tid=850afad56638d00cc5c40f22ae230b4a",
     "https://www.maimemo.com/share/page?uid=5390766&pid=ca39f8f3edeb43cdbc9875d1e16d90fd&tid=3d62514b09b9149e6f8c03bb940f259b",
     
     
